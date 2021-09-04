@@ -28,3 +28,7 @@ https://github.com/rahathossain/spring-boot-scala-hello
 https://dzone.com/articles/spring-boot-and-scala
 
 https://dzone.com/articles/scala-in-java-maven-project
+
+
+https://opensourcelibs.com/lib/spring-boot-scala
+https://github.com/bjoernjacobs/spring-boot-scala
