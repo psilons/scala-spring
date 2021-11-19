@@ -3,7 +3,7 @@
 This app has the following features:
 - using Spring Framework in Scala
 - mix Java and Scala code - we should not do this. A better way is to separate
-  in different modules.
+  in different modules. Share Java and Scala at the bytecode level.
 
 With this pom.xml, java code is compiled twice. 
 
